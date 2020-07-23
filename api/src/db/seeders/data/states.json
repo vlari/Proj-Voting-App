@@ -1,0 +1,26 @@
+[
+  {
+    "name": "California",
+    "population": 38000000,
+    "pollingCenters": 10,
+    "flag": ""
+  },
+  {
+    "name": "Massachussetts",
+    "population": 6000000,
+    "pollingCenters": 5,
+    "flag": ""
+  },
+  {
+    "name": "Ohio",
+    "population": 11000000,
+    "pollingCenters": 6,
+    "flag": ""
+  },
+  {
+    "name": "Texas",
+    "population": 29000000,
+    "pollingCenters": 8,
+    "flag": ""
+  }
+]

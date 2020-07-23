@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Amanda Johnson",
+      "dateOfBirth": "1960-09-03",
+      "avatar": ""
+    }, {
+        "name": "James Cromwell",
+        "dateOfBirth": "1975-02-13",
+        "avatar": ""
+    }, {
+        "name": "Kelly Shipka",
+        "dateOfBirth": "1975-03-15",
+        "avatar": ""
+    }, {
+        "name": "Chris Salvatore",
+        "dateOfBirth": "1960-04-02",
+        "avatar": ""
+    }
+  ]

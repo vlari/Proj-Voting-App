@@ -1,0 +1,38 @@
+[
+  {
+    "citizenId": "001",
+    "name": "Leann Mace",
+    "dateOfBirth": "2020-01-20",
+    "address": "47302 South Junction",
+    "phone": "3597491932",
+    "gender": "Female"
+  }, {
+    "citizenId": "002",
+    "name": "Debra Furlonge",
+    "dateOfBirth": "2019-10-16",
+    "address": "02 East Lane",
+    "phone": "3781743777",
+    "gender": "Female"
+  }, {
+    "citizenId": "003",
+    "name": "Brade Tidbold",
+    "dateOfBirth": "2020-03-10",
+    "address": "4 Dixon Terrace",
+    "phone": "2828120530",
+    "gender": "Male"
+  }, {
+    "citizenId": "004",
+    "name": "Moritz Barnson",
+    "dateOfBirth": "2020-06-01",
+    "address": "10 Acker Drive",
+    "phone": "8412110410",
+    "gender": "Male"
+  }, {
+    "citizenId": "005",
+    "name": "Merrick Saye",
+    "dateOfBirth": "2020-04-19",
+    "address": "9635 Cambridge Trail",
+    "phone": "1768679355",
+    "gender": "Male"
+  }
+]
